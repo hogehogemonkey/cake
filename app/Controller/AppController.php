@@ -60,7 +60,7 @@ class AppController extends Controller {
     }
 
     // 実行モード取得
-    public function is_execute_mote()
+    public function is_execute_mode()
     {
         if(isset($this->request->query['exec']))
         {
