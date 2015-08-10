@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+.header-logged-out {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-width: 1000px;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.container {
+    width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.clearfix:before {
+    display: table;
+    content: "";
+}
+
+/* サインアップ、サインインボタン*/
+.header-actions {
+    float: right;
+    margin-top: -3px;
+    margin-bottom: -3px;
+}
+
+/*　サインアップボタン　*/
+.header-actions .btn {
+    margin-left: 5px;
+}
+
+/*　サインインボタン　*/
+.btn-primary {
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.15);
+    background-color: #60b044;
+    background-image: -webkit-linear-gradient(#8add6d, #60b044);
+    background-image: linear-gradient(#8add6d, #60b044);
+    border-color: #5ca941;
+}
+
+/*　検索フォーム */
+.site-search {
+    position: relative;
+    float: left;
+}
+/* 基礎パーツ　*/
+input, select, textarea, button {
+    font: 13px/1.4 Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+}

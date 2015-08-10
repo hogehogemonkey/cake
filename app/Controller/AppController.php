@@ -73,6 +73,6 @@ class AppController extends Controller {
             return $this->request->data['exec']==1;
         }
 
-        return NULL;
+        return false;
     }
 }

@@ -1,0 +1,348 @@
+2015-08-02 17:22:51 Error: [MissingControllerException] Controller class PublicLoginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicLoginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/PublicLogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:24:29 Error: [MissingControllerException] Controller class PublicLoginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicLoginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/PublicLogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:25:31 Error: [MissingControllerException] Controller class PublicLoginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicLoginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/PublicLogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:26:30 Error: [MissingControllerException] Controller class PublicLoginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicLoginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/PublicLogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:39:57 Error: [MissingControllerException] Controller class PublicloginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicloginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:40:37 Error: [MissingControllerException] Controller class PublicloginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicloginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:40:39 Error: [MissingControllerException] Controller class PublicloginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicloginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:40:39 Error: [MissingControllerException] Controller class PublicloginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicloginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:40:40 Error: [MissingControllerException] Controller class PublicloginController could not be found.
+Exception Attributes: array (
+  'class' => 'PublicloginController',
+  'plugin' => NULL,
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-08-02 17:41:23 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:42:27 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:44:34 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:44:35 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:44:35 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:44:36 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:44:36 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:48:58 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-02 17:49:28 Error: [MissingViewException] View file "Publiclogin/index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/index.ctp',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-08-03 02:12:09 Error: [MissingActionException] Action PublicloginController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'PublicloginController',
+  'action' => 'images',
+)
+Request URL: /cake/publiclogin/images/samle.jpg
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#2 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-08-07 03:01:07 Error: Fatal Error (4): syntax error, unexpected ';' in [/home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp, line 64]
+2015-08-07 03:01:07 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/home/nakagawa/...', 64)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/home/nakagawa/...', 64, Array)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Core/App.php(933): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/home/nakagawa/...', 64, Array)
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Core/App.php(906): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-08-07 03:02:12 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(65): FormHelper->create(NULL, Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-07 03:09:20 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(62): FormHelper->create('Publiclogin', Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-07 03:15:35 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(62): FormHelper->create('Publiclogin', Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-07 03:15:47 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(58): FormHelper->create('Publiclogin', Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-07 03:16:50 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(62): FormHelper->create('Publiclogin', Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-07 03:16:51 Error: [MissingTableException] Table publiclogins for model Publiclogin was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'publiclogins',
+  'class' => 'Publiclogin',
+  'ds' => 'default',
+)
+Request URL: /cake/publiclogin/
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(3644): Model->setSource('publiclogins')
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Model/Model.php(1387): Model->getDataSource()
+#2 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(215): Model->schema()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/View/Helper/FormHelper.php(468): FormHelper->_introspectModel('Publiclogin', 'fields')
+#4 /home/nakagawa/htdocs/cake/app/View/Public/Login/Publiclogin/index.ctp(62): FormHelper->create('Publiclogin', Array)
+#5 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(961): include('/home/nakagawa/...')
+#6 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(923): View->_evaluate('/home/nakagawa/...', Array)
+#7 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(473): View->_render('/home/nakagawa/...')
+#8 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#9 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#10 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#11 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-08-08 22:21:00 Error: [MissingViewException] View file "Publiclogin/create_account.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Publiclogin/create_account.ctp',
+)
+Request URL: /cake/publiclogin/create_account
+Stack Trace:
+#0 /home/nakagawa/htdocs/cake/lib/Cake/View/View.php(470): View->_getViewFileName(NULL)
+#1 /home/nakagawa/htdocs/cake/lib/Cake/Controller/Controller.php(960): View->render(NULL, NULL)
+#2 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(200): Controller->render()
+#3 /home/nakagawa/htdocs/cake/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PublicloginController), Object(CakeRequest))
+#4 /home/nakagawa/htdocs/cake/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

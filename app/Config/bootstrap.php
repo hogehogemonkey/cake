@@ -25,6 +25,31 @@
 // Setup a 'default' cache configuration for use in the application.
 Cache::config('default', array('engine' => 'File'));
 
+/*
+	Control
+*/
+// ゲーム側
+//　ログイン
+App::build(array(
+	'Controller' => array(ROOT.DS.APP_DIR.DS.'Controller'.DS.'Public'.DS.'Login'.DS),
+));
+
+// コントローラはアクションの分だけここに記述していく
+
+
+/*
+	View
+*/
+// 管理側
+//　ログイン
+App::build(array(
+	'views' => array(ROOT.DS.APP_DIR.DS.'View'.DS.'Public'.DS.'Login'.DS),
+));
+
+// ビューはアクションの分だけここに記述していく
+
+
+
 /**
  * The settings below can be used to set additional paths to models, views and controllers.
  *
@@ -97,6 +122,12 @@ Configure::write('Dispatcher.filters', array(
 	'AssetDispatcher',
 	'CacheDispatcher'
 ));
+
+/*
+	メール機能
+*/
+App::uses('CakeEmail','Network/Email');
+
 
 /**
  * Configures default file logging options
